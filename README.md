@@ -1,2 +1,3 @@
 # Python
-This repository is made for the works which we have been doing by python language. This includes Machine learning works in this repository
+This repository is made for the works which we have been doing using python language. This includes Machine learning and some other works 
+releated to python in this repository

@@ -1,0 +1,5 @@
+Logistic regression is a regression algorithm which is similar to the linear regression but this algorithm is used when dependent variable is binary or dichotomous
+
+In logistic regression dependent variable is modeled as a function of one or more independent variable by using logistic or sigmoid function 
+
+This algorithm is mainly used for predicting likehood of a patient,analyzing relationship between market campaigns and customer responses etc

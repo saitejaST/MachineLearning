@@ -1,0 +1,3 @@
+Naive bayes is a concept based on the baye's theorm it will make some naive assumptions on the idependence of the features
+It helps to calculate the probabilities of each class given in the input and selects the highest probability possible 
+basically it is used in fraud detection,sentiment analysis,email spam classifications,Medical diagnosis

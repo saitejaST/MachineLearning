@@ -1,0 +1,8 @@
+Linear regression is used to relate the relationships between dependent and one or independed variables.and this is used to explain the cotinous dependednt variable 
+dependent variable
+
+This regression algorithm is more often used when we want to understand how independent variables effects dependent variable
+
+Genreal equation : y=mx+c where y=target variable,m=intercept,x=feature or independent variable ,c=biased
+
+

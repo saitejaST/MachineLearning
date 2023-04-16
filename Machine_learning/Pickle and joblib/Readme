@@ -1,0 +1,2 @@
+Pickle and joblib are two main components which we will be using to save the model which we have trained for the future use and helps to reuse 
+the trained model for any deployement purpose

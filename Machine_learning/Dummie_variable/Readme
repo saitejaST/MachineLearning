@@ -1,0 +1,3 @@
+Dummie variables is a concept in the pandas dataframe where it will convert the categorical data into numerical data this dataframe is extremely useful
+for the onehotencoding or label encoding because these three works in same manner these dummie variables are binary in nature either 0 or 1
+mainly useful to represent a characterstic is present or not

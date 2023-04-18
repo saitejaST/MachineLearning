@@ -1,0 +1,3 @@
+Grid search CV also known as grid search cross validation is a technique in machine learning to tune hyper-parameters of a model. Grid search cv involves defining 
+grid of hyperparameters to find the best combination that yeilds the highest performance of a model.The performance of the model is generally evalvuated by the 
+cross validation method.it helps to avoid the overfitting by tuning hyperparameters using a seperate validation set

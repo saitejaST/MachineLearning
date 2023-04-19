@@ -1,0 +1,7 @@
+This mini project is done based on the concepts of natural language processing(NLP) this task will helps us to identify the languages based on the input texts 
+given in it by transforming the text data into numerical format that can be processed by the machine learning algorithms these are the steps involved for the 
+language detection
+1.preprocessing data
+2.Vectorizing the text data
+3.Training the machine learning model
+4.predicitng the language
